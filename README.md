@@ -1,16 +1,15 @@
-## Hi there 👋
+# أهلاً بك في حسابي! 👋
 
-<!--
-**Naadaa-web/Naadaa-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا ندى، خريجة علوم حاسب، مهتمة بمجال تحليل البيانات والأمن السيبراني. أؤمن بالتعلم المستمر وأسعى لتوظيف مهاراتي التقنية في حل المشكلات الحقيقية.
 
-Here are some ideas to get you started:
+### 🛠 المهارات التقنية:
+* **لغات البرمجة:** Python, Java, SQL
+* **تحليل البيانات:** Pandas, Power BI, Tableau
+* **الأمن السيبراني:** الوعي بالخصوصية، إدارة الثغرات، والامتثال.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 مشاريعي القادمة:
+أعمل حالياً على تطوير مهاراتي في تحليل البيانات وبناء مشاريع برمجية عملية.
+
+---
+📫 **كيفية التواصل:**
+[LinkedIn](http://linkedin.com/in/nada-295061313)
